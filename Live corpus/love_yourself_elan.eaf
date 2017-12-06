@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="unspecified" DATE="2017-12-06T23:47:47+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:8eb60e98-f6dd-4fc1-9ae4-b48e54b2cbf3</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">40</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="1120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="1830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="1940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="11280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="11370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="15940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="16360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="21650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="22410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="44560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="46020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="47390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="47530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="66910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="68490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="77090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="78280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="79010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="79060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="80280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="80290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="83540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="83720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="84430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="84641"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="94120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="95090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="96430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="96780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="104850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="105090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="136150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="136930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="137770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="138280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="155770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="156200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="172780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="173390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="174470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="175600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="178720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="179430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="180650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="181070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="181910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="182330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="190060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="190590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="201070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="201580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="210780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="210810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="228480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="228500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="230540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="231800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="254390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="255220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="256040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="256550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="263810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="264190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="270740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="271730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="274740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="274770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="283580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="283620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="298400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="298490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="299790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="301230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="301930"/>
+    </TIME_ORDER>
+    <TIER DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="paragraph" TIER_ID="Диана@text">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE> Эээ…</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>  любовь к себе - это то без чего в наше время обойтись нельзя, потомушшшто социальные сети, интернет, телевидение  - они ээ…</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>очень давят на нас, на нашу самооценку, потому что кхм..</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>они дают нам какие-то стандарты красоты, стандарты жизни, кхм-кхм..</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>  которые мы должны, которых мы должны придерживаться, но на самом деле это всё лишь рекламный ход и люди часто этого не понимают и пытаются себя под эти рамки подогнать, тем самым они просто губят свою жизнь, и в итоге они, конечно же, несчастны потому что они не делают то, что они хотят, а..</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE> из этого следует аа… </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE> то, что чтобы быть счастливым нужно полюбить себя, нужно принять себя, и нужно делать только то, что делает тебя счастливым, тойсть если ты хочешь быть художником, это значит, что ты должен быть художником, а не ким-нить юристом.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE> И поэтому, наверно, в нашем мире так много несчастных людей, потому что они боятся делать то, что они хотят,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE> ведь…</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE> кто так делает, да? </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE> Все юристы, значит ты тоже должен быть юристом, аа..</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE> нуу.. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE> в таком духе, ведь все боятся неудач, но на самом деле все великие люди они потерпели просто грандиозные неудачи.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE> А… </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE> тот же самый Уолт Дисней, его увольняли с работы за недостаток фантазии, в итоге у него аа… </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE> «Микки Маус», канал Дисней,  это имеет его фамилию, поэтому я считаю, что людям нужно больше верить в себя, нужно больше любить себя, может быть тогда наш мир изменится в лучшую сторону, тогда может люди будут наконец счастливы и перестанут винить в своих проблемах других людей, потомушо на самом деле все исходит из нас, из того как мы смотрим на все ситуации наши , жизэнные. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE> То есть аа..</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE> если с тобой происходит что-то плохое, это не значит, что ты должен погружаться в депрээээсссию или просто лечь и думать о том как все плохо, нет нужно бороться, нужно бороться за свою счастливую жизнь и ээ..</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE> понимать, что только ты можешь изменить её, то есть никто не придет и не спасет тебя, никто не придет и не будет, там,  изменять твою жизнь, никто не будет наводить в ней порядок – это все зависит только от нас самих a....</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>и...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE> это я думаю залог ккраз хм.. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>успеха. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE> Амм.. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE> еще, я недавно прочитала такую мысль, насчет того, что ээ..</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE> все всё, что придумали вот эти «гении», это то, о чем мы задумывались, но мы сами эти мысли отвергали. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE> То есть все эти гении, они не отличаются как-то от нас в плане того, что они какие-то очч умные или там.. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE> не знаю, у них какие-то другие образы мыслей, на самом деле мы тоже в нашей повседневной жизни задумываемся иногда о чем-то таком немыслимом, как нам кажется, что вообще невозможно, но мы сами же ээ..</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE> ставим эти ррррамки.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE> Мы в своем представлении, то есть мы с вами даем оценку тому, что возможно, тому, что невозможно, когда на самом деле, все, о чем мы задумываемся и все что мы желаем мы можем достичь сами, просто для этого нужно приложить силы, как минимум, инициативы, и нужно уметь принимать…</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE> ээ…</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE> принимать проигрыши, нужно понимать, что не всё всегда будет гладко, и   ээ.. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE> ты не будешь всегда побеждать и не всё очень быстро и легко дается в этой жизни.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>  потомушо я думаю не один великий человек ам… </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE> ничего просто так в этой жизни не получал, и каждому пришлось пройти огромный и тяжелый путь, чтобы наконец ээм.. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE> получить то, что он хотел, ведь ничё  достойного, ни одна достойная вещь в этом мире не может легко даваться, иначе она бы не была настолько желаемой, настолько необыкновенной ээ.. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE> в нашем понимании. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE> Всё.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="paragraph" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="association" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="subdivision" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
